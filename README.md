@@ -1,1 +1,4 @@
-# How_to_plot_with_circos_in_your_local_machine
+An easy example of how to use circos in your local machine.
+
+
+For more details please go to https://circos.ca/
